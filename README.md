@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dogmaprof
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning .net
+- 💞️ I’m looking to collaborate on backend 
+- 📫 How to reach me : this github account.
